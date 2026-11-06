@@ -70,4 +70,4 @@ If this policy changes, we will update this page and the effective date above.
 ## 13. Contact
 
 Unwarped Quads LLC
-Email: UnwarpedQuads@gmail.com
+Email: unwarpedquads@gmail.com
